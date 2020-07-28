@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="name">Name</string>
+    <string name="enter_first_name">enter first name</string>
+    <string name="name">Name</string>
+    <string name="i">i</string>
+</resources>
